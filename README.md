@@ -28,7 +28,7 @@ Since I'm building my portfolio, I'm putting my all into every project. Here's m
 
 | Project Name | Description | Technologies Used |
 | :--- | :--- | :--- |
-| **[My Jewelry Store](link-to-your-project-repo)** | An interactive aquatic themed Jewelry store with login, logout, inventory management system and point of sale system. | `HTML` `CSS` `JavaScript` | 
+| **[My Jewelry Store](https://github.com/DaniaFarooq/My-jewelry-store.git)** | An interactive aquatic themed Jewelry store with login, logout, inventory management system and point of sale system. | `HTML` `CSS` `JavaScript` | 
 
 
 ---
