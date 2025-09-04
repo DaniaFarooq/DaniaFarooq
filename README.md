@@ -60,7 +60,7 @@ Since I'm building my portfolio, I'm putting my all into every project. Here's m
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
----
+
 
 ### 📊 GitHub Stats & Streak
 
@@ -68,9 +68,9 @@ Just for fun! These update automatically.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaniaFarooq&show_icons=true&theme=dark&title_color=F71616&text_color=fff&icon_color=F71616&bg_color=000000&hide_border=true" alt="Dania's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniaFarooq&theme=dark&background=000000&stroke=F71616&ring=F71616&fire=F71616&currStreakNum=fff&sideNums=fff&currStreakLabel=F71616&sideLabels=fff&dates=fff&hide_border=true" alt="Dania's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniaFarooq&theme=dark&background=000000&stroke=F71616&ring=F71616&fire=F71616&currStreakNum=fff&sideNums=fff&currStreakLabel=F71616&sideLabels=fff&dates=fff&hide_border=true"  />
 </p>
----
+
 
 ### 🤝 Let's Connect!
 
@@ -79,6 +79,6 @@ I'm always open to discussing data, new opportunities, or just saying hello!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniafarooq)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielfaruk299@gmail.com)
 
----
+
 <p align="center">⭐️ Feel free to star any of my repos if you find them interesting!</p>
----
+
