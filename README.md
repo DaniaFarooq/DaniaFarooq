@@ -30,7 +30,6 @@ Since I'm building my portfolio, I'm putting my all into every project. Here's m
 | :--- | :--- | :--- |
 | **[My Jewelry Store](https://github.com/DaniaFarooq/My-jewelry-store.git)** | An interactive aquatic themed Jewelry store with login, logout, inventory management system and point of sale system. | `HTML` `CSS` `JavaScript` | 
 
-
 ---
 
 ### 🛠️ My Tech Stack  
@@ -60,25 +59,40 @@ Since I'm building my portfolio, I'm putting my all into every project. Here's m
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
+---
 
-
-### 📊 GitHub Stats & Streak
-
-Just for fun! These update automatically.
+### 📊 GitHub Stats & Streak  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaniaFarooq&show_icons=true&theme=dark&title_color=F71616&text_color=fff&icon_color=F71616&bg_color=000000&hide_border=true" alt="Dania's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniaFarooq&theme=dark&background=000000&stroke=F71616&ring=F71616&fire=F71616&currStreakNum=fff&sideNums=fff&currStreakLabel=F71616&sideLabels=fff&dates=fff&hide_border=true"  />
 </p>
 
+---
 
-### 🤝 Let's Connect!
+### 🌟 Profile Highlights  
 
-I'm always open to discussing data, new opportunities, or just saying hello!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaniaFarooq&label=Profile%20Views&color=F71616&style=flat" alt="profile views" />  
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniafarooq)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielfaruk299@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaniaFarooq&theme=redical" alt="Contribution Graph" />
+</p>
 
+---
+
+### 🌐 Find Me Around the Web  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniafarooq"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:danielfaruk299@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://leetcode.com/DaniaFarooq"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.kaggle.com/daniafarooq1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://x.com/Dania_Farooq1"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://daniafarooq.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
 
 <p align="center">⭐️ Feel free to star any of my repos if you find them interesting!</p>
-
