@@ -22,16 +22,6 @@ I am eager to contribute to innovative projects, learn from the community, and g
 
 ---
 
-### 🚀 My First Html Project
-
-Since I'm building my portfolio, I'm putting my all into every project. Here's my very first project I worked on during my Web App Development course:
-
-| Project Name | Description | Technologies Used |
-| :--- | :--- | :--- |
-| **[My Jewelry Store](https://github.com/DaniaFarooq/My-jewelry-store.git)** | An interactive aquatic themed Jewelry store with login, logout, inventory management system and point of sale system. | `HTML` `CSS` `JavaScript` | 
-
----
-
 ### 🛠️ My Tech Stack  
 
 **Languages**  
