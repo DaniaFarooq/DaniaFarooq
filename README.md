@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dania Farooq </h1>
-<h3 align="center">A Passionate Aspiring Data Scientist from a Mathematics Background</h3>
+<h3 align="center">A Passionate Aspiring Data Scientist and a Mathematics graduate</h3>
 
 <!-- A cool divider line -->
 <br>
