@@ -22,13 +22,17 @@ I am eager to contribute to innovative projects, learn from the community, and g
 
 ---
 
-### 🛠️ My Tech Stack  
+### 🛠️ My Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+
+**Databases & Tools**<br> 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
 **Data Manipulation**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
@@ -38,6 +42,7 @@ I am eager to contribute to innovative projects, learn from the community, and g
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?logo=plotly&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?logo=python&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 
 **Machine Learning**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
