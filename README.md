@@ -47,7 +47,7 @@ I am eager to contribute to innovative projects, learn from the community, and g
 **Machine Learning**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
-**Tools**  
+**Development Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) 
