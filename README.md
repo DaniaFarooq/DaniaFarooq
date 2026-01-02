@@ -84,7 +84,6 @@ I am eager to contribute to innovative projects, learn from the community, and g
   <a href="https://leetcode.com/DaniaFarooq"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://www.kaggle.com/daniafarooq1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://x.com/Dania_Farooq1"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://daniafarooq.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
